@@ -1,6 +1,6 @@
 {
   "name": "ihouse",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "App for intelligent house",
   "main": "index.mjs",
   "scripts": {
