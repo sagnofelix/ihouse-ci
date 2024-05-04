@@ -1,0 +1,19 @@
+{
+  "name": "ihouse",
+  "version": "1.0.0",
+  "description": "App for intelligent house",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "author": "Sagno Félix",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "winston": "^3.13.0"
+  }
+}
